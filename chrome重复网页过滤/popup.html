@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>重复标签检测器</title>
+    <style>
+      body {
+        width: 250px; /* 设置弹窗的宽度 */
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      h1 {
+        font-size: 18px;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+      .toggle-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 14px;
+        margin-bottom: 10px;
+      }
+      #toggle {
+        margin-left: 10px; /* 调整开关按钮和文本之间的间距 */
+      }
+    </style>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <h1>重复标签检测器</h1>
+    <div class="toggle-container">
+      <label for="toggle">启用:</label>
+      <input type="checkbox" id="toggle">
+    </div>
+  </body>
+</html>

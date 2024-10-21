@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "重复标签检测器",
+    "version": "1.0",
+    "description": "检测是否已有相同URL的标签页打开，并切换到该标签页而不是重新打开新的。",
+    "permissions": ["tabs", "storage", "webNavigation"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
+  

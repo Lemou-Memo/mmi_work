@@ -11,6 +11,7 @@
    ```bash
    pip install -r requirements.txt
 ## log分析
+  ![项目示例图片](https://ice.frostsky.com/2024/10/21/2b07fa79274c54c3758ebb6a2b61f22a.png)
   log分析的主要作用是**读取log的数字信息**，将其转化为图表方便用户更好的查看**数据趋势和变化点**。
 ## log集合
   log集合的主要作用是**合并log**，避免了分析log中需要频繁的打开不同的log和切换log导致分析效率低。

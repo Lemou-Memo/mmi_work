@@ -1,0 +1,17 @@
+certifi==2024.2.2
+colorama==0.4.6
+contourpy==1.2.1
+cycler==0.12.1
+distro==1.9.0
+kiwisolver==1.4.5
+matplotlib==3.9.1
+packaging==24.1
+pillow==10.4.0
+plotly==5.23.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+setuptools==72.1.0
+six==1.16.0
+tqdm==4.66.2
+typing_extensions==4.11.0

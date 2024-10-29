@@ -7,8 +7,8 @@
 // @match        http://jira-ex.transsion.com/browse/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @updateURL    https://github.com/Lemou-Memo/jira/raw/main/photo.js
-// @downloadURL  https://github.com/Lemou-Memo/jira/raw/main/photo.js
+// @updateURL    https://raw.githubusercontent.com/Lemou-Memo/mmi_work/refs/heads/master/%E8%84%9A%E6%9C%AC/photo.js
+// @downloadURL  https://raw.githubusercontent.com/Lemou-Memo/mmi_work/refs/heads/master/%E8%84%9A%E6%9C%AC/photo.js
 // ==/UserScript==
 (function() {
     'use strict';

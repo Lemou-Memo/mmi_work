@@ -6,19 +6,8 @@
 // @author       jiale.pan
 // @match        http://jira-ex.transsion.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Lemou-Memo/jira/main/Jira%20Functionality%20Enhancement%20and%20Integration.js
-// @downloadURL  https://raw.githubusercontent.com/Lemou-Memo/jira/main/Jira%20Functionality%20Enhancement%20and%20Integration.js
-// ==/UserScript==
-// ==UserScript==
-// @name         Jira功能拓展优化整合版
-// @namespace    http://tampermonkey.net/
-// @version      2.2
-// @description  当前用户加粗、复制按钮、bug提示按钮、时间显示优化等功能的整合
-// @author       jiale.pan
-// @match        http://jira-ex.transsion.com/*
-// @grant        none
-// @updateURL    https://raw.githubusercontent.com/Lemou-Memo/jira/main/Jira%20Functionality%20Enhancement%20and%20Integration.js
-// @downloadURL  https://raw.githubusercontent.com/Lemou-Memo/jira/main/Jira%20Functionality%20Enhancement%20and%20Integration.js
+// @updateURL    https://raw.githubusercontent.com/Lemou-Memo/mmi_work/refs/heads/master/%E8%84%9A%E6%9C%AC/Jira%20chrome.js
+// @downloadURL  https://raw.githubusercontent.com/Lemou-Memo/mmi_work/refs/heads/master/%E8%84%9A%E6%9C%AC/Jira%20chrome.js
 // ==/UserScript==
 
 (function() {
